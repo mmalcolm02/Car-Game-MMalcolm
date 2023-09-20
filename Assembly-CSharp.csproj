@@ -59,6 +59,8 @@
     <Compile Include="Assets/Scripts/FollowPlayer.cs" />
     <Compile Include="Assets/Scripts/PlayerController.cs" />
     <Compile Include="Assets/Scripts/BusMovement.cs" />
+    <Compile Include="Assets/Scripts/FollowPlayerPoV.cs" />
+    <Compile Include="Assets/Scripts/CamSwitch.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/Course Library/_Source_Files/_LICENSE.txt" />
