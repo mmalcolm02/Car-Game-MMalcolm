@@ -1611,7 +1611,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mainCamera: {fileID: 534669902}
-  PoVCamera: {fileID: 790996281}
+  PovCamera: {fileID: 790996281}
 --- !u!4 &1942548804
 Transform:
   m_ObjectHideFlags: 0

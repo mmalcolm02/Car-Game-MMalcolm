@@ -1,7 +1,10 @@
 ﻿<Properties StartupConfiguration="{BA242746-8C69-F04B-F9B3-DDDE6FDF0A5C}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BusMovement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CamSwitch.cs">
     <Files>
-      <File FileName="Assets/Scripts/BusMovement.cs" Line="7" Column="30" />
+      <File FileName="Assets/Scripts/BusMovement.cs" Line="7" Column="39" />
+      <File FileName="Assets/Scripts/FollowPlayer.cs" />
+      <File FileName="Assets/Scripts/FollowPlayerPoV.cs" Line="9" Column="121" />
+      <File FileName="Assets/Scripts/CamSwitch.cs" Line="29" Column="39" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,16 +18,11 @@
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="Unity" expanded="True" selected="True" />
-        </State>
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7056742f-67b4-4634-bf7e-c105353c432a" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c95d953d-6fb0-439f-9d44-e4b8450355d1" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
